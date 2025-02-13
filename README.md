@@ -31,6 +31,6 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/women-safety-cctv.git
+git clone https://github.com/Snehasish5/women-safety-cctv.git
 
 Run the application:
